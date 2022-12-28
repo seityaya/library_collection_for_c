@@ -1,6 +1,6 @@
 [submodule "yaya_defines"]
 	path = yaya_defines
-	url = ../yaya_defines   
+	url = ../yaya_defines
 
 [submodule "yaya_format"]
 	path = yaya_format
