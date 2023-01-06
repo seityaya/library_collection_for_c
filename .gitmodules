@@ -13,6 +13,6 @@
 [submodule "yaya_void"]
 	path = yaya_void
 	url = ../yaya_void
-[submodule "yaya_test"]
-	path = yaya_test
-	url = ../yaya_test
+[submodule "yaya_unit"]
+	path = yaya_unit
+	url = ../yaya_unit
