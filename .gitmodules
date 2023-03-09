@@ -1,18 +1,15 @@
 [submodule "yaya_defines"]
 	path = yaya_defines
 	url = ../yaya_defines
-[submodule "yaya_format"]
-	path = yaya_format
-	url = ../yaya_format
+
 [submodule "yaya_logger"]
 	path = yaya_logger
 	url = https://github.com/seityaya/logger.git
+
 [submodule "yaya_memory"]
 	path = yaya_memory
 	url = ../yaya_memory
-[submodule "yaya_void"]
-	path = yaya_void
-	url = ../yaya_void
+
 [submodule "yaya_unit"]
 	path = yaya_unit
 	url = ../yaya_unit
