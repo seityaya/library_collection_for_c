@@ -1,6 +1,6 @@
 [submodule "yaya_defines"]
 	path = yaya_defines
-	url = ../yaya_defines
+	url = https://github.com/seityaya/defines.git
 
 [submodule "yaya_logger"]
 	path = yaya_logger
@@ -8,8 +8,8 @@
 
 [submodule "yaya_memory"]
 	path = yaya_memory
-	url = ../yaya_memory
+	url = https://github.com/seityaya/memory.git
 
 [submodule "yaya_unit"]
 	path = yaya_unit
-	url = ../yaya_unit
+	url = https://github.com/seityaya/unit.git
