@@ -1,15 +1,19 @@
-[submodule "yaya_defines"]
-	path = yaya_defines
-	url = https://github.com/seityaya/defines.git
+[submodule "yaya_define"]
+	path = yaya_define
+	url = https://github.com/seityaya/c_define.git
 
-[submodule "yaya_logger"]
-	path = yaya_logger
-	url = https://github.com/seityaya/logger.git
+[submodule "yaya_logtext"]
+	path = yaya_logtext
+	url = https://github.com/seityaya/c_logtext.git
+
+[submodule "yaya_logtime"]
+	path = yaya_logtime
+	url = https://github.com/seityaya/c_logtime.git
 
 [submodule "yaya_memory"]
 	path = yaya_memory
-	url = https://github.com/seityaya/memory.git
+	url = https://github.com/seityaya/c_memory.git
 
 [submodule "yaya_unit"]
 	path = yaya_unit
-	url = https://github.com/seityaya/unit.git
+	url = https://github.com/seityaya/c_unit.git
